@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>
+sls cafe
+</title> 
+<link rel="stylesheet" href="css.css">
+</head>
+<body   dir="rtl">
+<body  alink="# a3a3c2 " vlink="# 1f3d7a" align="center" >
+<img src="logo.jpg" align="left" height="150" width="150"> <br><br><br>
+<h3><br>اهلين فيك نورتنا حبينا نرحب فيك تحت تحصل قائمة الأصناف طب وتخير</h3>
+<br>
+<hr height="200" width="5000" color="gray">
+
+<br><br><br>
+<table align="center" >
+<tr >
+<td >
+ <a href="A.html" target="blank"><img src="1.jpg" height="150" width="150"></a></td>
+<td >
+<a href="c.html" target="blank"><img src="2.jpg" height="150" width="150" ></td>
+<td >
+<a href="lm.html" target="blank"><img src="3.jpg" height="150" width="150" ></td>
+<td >
+</tr></table>
+<br><br><br><br><br><br><br>
+  <hr height="150" width="5000" color="gray">
+<br>
+<h2>من نحن ؟ </h2>
+<br>
+<p>
+sls cafe هي علامة سعودية بارزة للقهوة المختصة حيث الأولوية للعميل دائما في sls cafe نهتم بالجودة ونهتم لذائقة زبائننا حيث نجوب بقاع الأرض لنحضر بين يديك القهوة الأمثل والتي تكون محمصة بطريقة مثالية لمذاق لا يتكرر ابدا.
+قهوتك هي أولويتنا
+</p>
+<br>
+ <hr height="200" width="5000" color="gray"><br> <h2> للتواصل والاقتراحات : </h2>
+<a href="https://www.instagram.com/sls_cafe1/" align="center">  INstagram </a> 
+<img align="middle" src="150.PNG" height="15" width="15">
+
+
+
+ 
+</body>
+</html> 
